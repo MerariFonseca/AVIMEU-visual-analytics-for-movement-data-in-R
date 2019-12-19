@@ -5,6 +5,6 @@ Users can upload a database that has variables of latitude, longitude, timestamp
 You can run the application locally by running runApp.bat or access in https://merarifonseca.shinyapps.io/AVIMEU/.
 
 
-<video src="VideoGif.mp4" width="320" height="200" controls preload></video>
+![Farmers Market Finder Demo](VideoGif.mp4)
 
 
