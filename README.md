@@ -2,5 +2,9 @@
 
 AVIMEU is an interactive application for visual analytics of movement data.  
 Users can upload a database that has variables of latitude, longitude, timestamp and attributes. 
-You can run the application locally by running runApp.bat or access in 
+You can run the application locally by running runApp.bat or access in https://merarifonseca.shinyapps.io/AVIMEU/.
+
+
+<video src="videoGIF.mp4" width="320" height="200" controls preload></video>
+
 
